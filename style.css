@@ -1,0 +1,36 @@
+body {
+  background-color: #71afe5;
+}
+
+#header {
+  padding: 40px;
+  text-align: center;
+  background: #71afe5;
+  color: #013c60;
+  font-size: 52px; /* Further increased font size */
+}
+
+#container {
+  background-color: #106ebe;
+  border: 5px solid white;
+  height: 370px; /* Increased height */
+  width: 66.67vw; /* Set width to two-thirds of the viewport width */
+  margin: 0 auto;
+  text-align: center;
+}
+
+#btn {
+  margin: 50px auto;
+  height: 50px;
+  width: 250px;
+  font-size: 28px; /* Further increased font size */
+  font-family: serif;
+  color: white;
+  background-color: #004578;
+}
+
+#output {
+  margin: 25px auto;
+  font-size: 28px; /* Further increased font size */
+  color: white;
+}
